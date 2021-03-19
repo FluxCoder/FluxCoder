@@ -10,3 +10,5 @@ Full Stack Web Developer from Essex, United Kingdom.
    :blush: Want to know more about me? Check out my [portfolio](https://jroffey.me). <br />
 
 I often use: `JQuery`, `BootStrap`, `Laravel`, `Axios`, `Datatables`, `Fotorama`.
+
+[Twitter](https://twitter.com/FluxCoder) - [Portfolio](https://jroffey.me) - [FluxCoder](https://fluxcoder.xyz)
